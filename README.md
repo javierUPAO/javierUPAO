@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Javier Alexander</h1>
 <h3 align="center">A passionate full stack developer from Peru</h3>
 
-- 👀 I’m interested in Sofware development and automatication
-- 🌱 I’m currently studying in Private University Antenor Orrego
-- 💞️ I’m currently learning JAVA, DOCKER , HTML5, CSS, BOOSTRAP,REACT , ANGULAR , HCL 
-- 📫 How to reach me aguilarblas.javier@gmail.com
+- 👀 I'm interested in software development and automation.
+- 🌱 I'm currently studying at Antenor Orrego Private University.
+- 💞️ I'm currently learning JAVA, DOCKER, HTML5, CSS, BOOSTRAP, REACT, ANGULAR, and HCL.
+- 📫 How to contact me: aguilarblas.javier@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
 
